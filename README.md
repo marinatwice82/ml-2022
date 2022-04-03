@@ -1,1 +1,1 @@
-# ml-2022
+# Classification. Linear models and KNN
